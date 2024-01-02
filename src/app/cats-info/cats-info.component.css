@@ -1,0 +1,21 @@
+.titleContainer {
+    display: flex;
+    justify-content: center;
+    border: solid;
+    margin: 20px;
+}
+
+.introductionContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.introductionContainer p {
+    font-size: 15px;
+    color: #2d2e2c;
+}
+
+.appTitle {
+    font-size: 50px;
+    color: #2d2e2c;
+}
